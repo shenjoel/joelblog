@@ -17,7 +17,7 @@ tags: [hexo, 多说, 评论]
 ```
 改为
 
-```
+```sh
 <% if (!index && page.comments && config.duoshuo_shortname){ %>
 <section id="comments">
 	<!-- 多说评论框 start -->
