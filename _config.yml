@@ -78,7 +78,7 @@ archive_generator:
 deploy:
   type: git
   repo: git@github.com:shenjoel/shenjoel.github.io.git
-  branch: master
+  branch: dev
   message: deployment
 
 duoshuo_shortname: http://shenjoel.github.io/
